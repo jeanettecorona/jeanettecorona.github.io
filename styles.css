@@ -1,5 +1,5 @@
 body {
-	background: yellow;
+	background-image: url(http://www.freepptbackground.com/wp-content/uploads/2013/01/yellow-orange-white-gradient-bubles-abstract.jpg);
 	padding-left: 10em;
 	padding-right: 10em;
 }
@@ -48,6 +48,7 @@ h1 {
   color: #f2a800;
   font-family: Blippo, fantasy;
   font-size: 200%;
+  margin-top: 8em;
 }
 
 a:visited {
