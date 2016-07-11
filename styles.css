@@ -51,9 +51,14 @@ h1 {
 }
 
 a:visited {
-  color: green;
+  color: orange;
 }
  
 a:hover {
-	color: pink;
+	color: green;
 }
+
+@media screen and (max-width: 500px) {
+  body {
+    font-size: 50%;}
+  }
