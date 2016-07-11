@@ -1,8 +1,59 @@
 body {
-	background: blue;
+	background: yellow;
+	padding-left: 10em;
+	padding-right: 10em;
 }
 
-#container {
-	border-radius: 3px;
-	border-width: 4px;
+#aboutme {
+	padding: 5px;
+	border: 2px dashed black;
+	background-image: url(http://crewofone.com/wp-content/uploads/2013/12/food-web-6514.jpg);
+	opacity: 0.85;
+}
+
+#form {
+	margin-left: 5px;
+	border-left: blue solid;
+	padding-left: 5px;
+	margin-bottom: 3em;
+}
+
+.examples {
+	/*border: 2px dashed black;*/
+	padding: 2em;
+
+}
+
+img {
+	width: 220px;
+	height:250px;
+	display: block;
+	padding: 2em;
+	margin-bottom: 2em;
+	vertical-align: top;
+}
+
+#footer {
+	text-align: center;
+	color: purple;
+	padding: 7px;
+	font-size: 75%;
+}
+
+* { 
+  font-family: Montserrat;
+ }
+ 
+h1 {
+  color: #f2a800;
+  font-family: Blippo, fantasy;
+  font-size: 200%;
+}
+
+a:visited {
+  color: green;
+}
+ 
+a:hover {
+	color: pink;
 }
